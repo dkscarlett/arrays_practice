@@ -10,3 +10,4 @@ ages.push
 temperature.shift
 # The results.unshift method will fill the array with elements that will start at the front.
 results.unshift
+# Index positions are as follows.. In the friends array Cindy would be index position 0 and so on. Same with every array that has been created. they start at index position 0 and continue on.
